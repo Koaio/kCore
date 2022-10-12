@@ -4,7 +4,7 @@
 --- DateTime: 21/04/2019 21:20
 ---
 
---print("^3 RageUI - https://github.com/iTexZoz/RageUI - OpenSource Advanced UI Api ^0")
+print("^3kCore By Koaio#9999 add on discord if you want more informations/kCore par Koaio#9999 ajoute moi sur discord si tu veux plus d'informations^0")
 
 ---round
 ---@param num number
