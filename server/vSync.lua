@@ -1,8 +1,8 @@
 ------------------ change this -------------------
 
 admins = {
-    --'steam:110000114d98be9',
-    --'license:1234975143578921327',
+    --'steam:1100001480bf347',
+    --'license:dcea94c7057cf575b7415f714a1449d7bddbb0c4',
 }
 
 -- Set this to false if you don't want the weather to change automatically every 10 minutes.
