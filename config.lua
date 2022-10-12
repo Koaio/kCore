@@ -130,7 +130,7 @@ Koaio = {
         name_bot = "Koaio",
         url_txadmin_bot = "",
         avatar_bot = 'https://cdn.discordapp.com/attachments/1026147146589819000/1026165017499942952/89aef50b26958fedace9f1f8e0f8cfa6.png',
-        username_bot = '💬 pawH9873nF',
+        username_bot = 'discord.gg/pawH9873nF',
     },
     logs_color = {
         green = 56108,
