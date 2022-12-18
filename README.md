@@ -6,7 +6,7 @@ kCore est un core créé par la Koaio#9999, pour la communauté FiveM. Il a ét�
 
 Discord : https://discord.gg/maxidev
 
-Serveur RP : https://discord.gg/CSt8h8Nkpf
+Serveur RP : https://discord.gg/adastra
 
 NE VOUS APPROPRIER PAS LE CORE RESPECTER MON TRAVAIL !!!!!!!!!!!!! or conséquence ;)
 
