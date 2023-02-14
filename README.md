@@ -1,4 +1,4 @@
-# uCore
+# kCore
 
 kCore est un core puissant et optimisé pour votre serveur FiveM basé sur RolePlay.
 
